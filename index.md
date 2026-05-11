@@ -4,7 +4,10 @@
 ## アプリケーション
 * Unity (2D・3D)
   * [Fukuoka Game Sprint 2025](https://www.city.fukuoka.lg.jp/gamesprint/) 1位 (グループでの制作。ステージのギミックのプログラミング・レベルデザインを担当。)
+     * 作品名: [ダーウィン★ダービー](https://unityroom.com/games/fgs2025b)
   * インディーゲーム制作 (制作中。図鑑機能デザイン・プログラミング)
+  * 授業課題 2Dゲーム制作 [YouTube](https://www.youtube.com/watch?v=f4-Yz_h0FOs)
+  * 個人制作 
 * Autodesk Maya (モデリング・アニメーション)
 * Autodesk Fusion (モデリング)
 * Adobe Creative Cloud (Illustrator, Photoshop, Premiere Pro, After Effects)
