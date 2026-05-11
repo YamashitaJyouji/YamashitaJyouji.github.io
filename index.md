@@ -8,20 +8,8 @@
 * Adobe Creative Cloud(Illustrator, Photoshop, Premiere Pro, After Effects)
 * Figma
 
-
-
-
-
-言語
-C#  Unityで使用　　(2Dゲーム　ブラッシュアップ)　(3Dゲーム　後期授業)
-　　Paiza　
-
-(C++)　UEで使用
-
-
-js　p５.jsとnode.jsとmonaca.  Bootstrap5
-Python　基礎
-HTML　基礎　
-CSS　基礎
-
-SQL基礎
+## プログラミング言語
+* C# (Unity)
+* JavaScript (p5.js, node.js)
+* HTML・CSS (Bootstrap5)
+* SQL
