@@ -6,11 +6,11 @@
   * [Fukuoka Game Sprint 2025](https://www.city.fukuoka.lg.jp/gamesprint/) 1位 (グループでの制作。ステージのギミックのプログラミング・レベルデザインを担当。)
      * 作品名: 「ダーウィン★ダービー」 [unityroom](https://unityroom.com/games/fgs2025b)
   * インディーゲーム制作 (制作中。図鑑機能デザイン・プログラミング)
-  * 個人制作 「判子バトル」 [YouTube]()
+  * 個人制作 「判子バトル」 [unityroom](https://unityroom.com/games/hancobattle) 
   * 授業課題 2Dゲーム制作 [YouTube](https://www.youtube.com/watch?v=f4-Yz_h0FOs)
 * Autodesk Maya (モデリング・アニメーション)
-  * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube]
-  * 授業課題 アニメーション 「星月夜」[YouTube]
+  * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube](https://youtu.be/vHGoJtjc8ys)
+  * 授業課題 アニメーション 「星月夜」[YouTube](https://youtu.be/EZsN2Abcasw)
   * 授業課題 「Cola」[画像1](./portfolio/Cola_01.jpg)  [画像2](./portfolio/Cola_02.jpg)  [画像3](./portfolio/Cola_03.jpg)
 * Autodesk Fusion (モデリング)
   * 授業課題　「ランプ」[画像](./portfolio/Lamp.jpg)
