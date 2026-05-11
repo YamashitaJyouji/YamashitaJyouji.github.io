@@ -11,7 +11,7 @@
 * Autodesk Maya (モデリング・アニメーション)
   * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube]
   * 授業課題 アニメーション 「星月夜」[YouTube]
-  * 授業課題 「cola」[画像1][画像2][画像3]
+  * 授業課題 「Cola」[画像1][画像2][画像3]
 * Autodesk Fusion (モデリング)
   * 授業課題　「ランプ」[画像]
 * Adobe Creative Cloud (Illustrator, Photoshop, Premiere Pro, After Effects)
