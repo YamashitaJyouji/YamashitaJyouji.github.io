@@ -4,18 +4,23 @@
 ## アプリケーション
 * Unity (2D・3D)
   * [Fukuoka Game Sprint 2025](https://www.city.fukuoka.lg.jp/gamesprint/) 1位 (グループでの制作。ステージのギミックのプログラミング・レベルデザインを担当。)
-     * 作品名: [ダーウィン★ダービー](https://unityroom.com/games/fgs2025b)
+     * 作品名: 「ダーウィン★ダービー」 [unityroom](https://unityroom.com/games/fgs2025b)
   * インディーゲーム制作 (制作中。図鑑機能デザイン・プログラミング)
+  * 個人制作 「判子バトル」 [YouTube]()
   * 授業課題 2Dゲーム制作 [YouTube](https://www.youtube.com/watch?v=f4-Yz_h0FOs)
-  * 個人制作 
 * Autodesk Maya (モデリング・アニメーション)
+  * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube]
+  * 授業課題 アニメーション 「星月夜」[YouTube]
+  * 授業課題 「cola」[画像1][画像2][画像3]
 * Autodesk Fusion (モデリング)
+  * 授業課題　「ランプ」[画像]
 * Adobe Creative Cloud (Illustrator, Photoshop, Premiere Pro, After Effects)
 * Figma
 
 ## プログラミング言語
 * C# (Unity)
 * JavaScript (p5.js, node.js)
+  * 授業課題 「ノーマン・マクラレンのアニメーション作品 “Canon” の小さなキューブ型ロボットトイ toio を用いた再現」[YouTube]()
 * HTML・CSS (Bootstrap5)
 * SQL
 
