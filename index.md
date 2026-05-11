@@ -3,8 +3,10 @@
 
 ## アプリケーション
 * Unity (2D・3D)
-* Maya (モデリング・アニメーション)
-* Fusion (モデリング)
+  * [Fukuoka Game Sprint 2025](https://www.city.fukuoka.lg.jp/gamesprint/) 1位 (グループでの制作。ステージのギミックのプログラミング・レベルデザインを担当。)
+  * インディーゲーム制作 (制作中。図鑑機能デザイン・プログラミング)
+* Autodesk Maya (モデリング・アニメーション)
+* Autodesk Fusion (モデリング)
 * Adobe Creative Cloud (Illustrator, Photoshop, Premiere Pro, After Effects)
 * Figma
 
@@ -18,4 +20,8 @@
 * 普通自動車第一種運転免許
 * 無人航空機操縦者技能証明 (二等無人航空機操縦士 (目視内飛行限定解除・日中飛行限定解除))
 * 高等学校教諭一種免許状 (情報) 2028年3月取得見込み
+
+## その他
+* 全日本剣道連盟 剣道二段
+* 習字 毛筆 五段
   
