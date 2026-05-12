@@ -20,7 +20,7 @@
 ## プログラミング言語
 * C# (Unity)
 * JavaScript (p5.js, node.js)
-  * 授業課題 「ノーマン・マクラレンのアニメーション作品 “Canon” の小さなキューブ型ロボットトイ toio を用いた再現」[YouTube]()
+  * 授業課題 「ノーマン・マクラレンのアニメーション作品 “Canon” の小さなキューブ型ロボットトイ toio を用いた再現」[YouTube](https://youtu.be/msI666jv-hY)
 * HTML・CSS (Bootstrap5)
 * SQL
 
