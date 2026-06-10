@@ -4,9 +4,9 @@
 ## アプリケーション
 * Unity (2D・3D)
   * [Fukuoka Game Sprint 2025](https://www.city.fukuoka.lg.jp/gamesprint/) 1位 (グループでの制作。ステージのギミックのプログラミング・レベルデザインを担当。)
-     * 作品名: 「ダーウィン★ダービー」 [unityroom](https://unityroom.com/games/fgs2025b) [Youtube](https://youtu.be/jKsVDZHrhQI)
-  * インディーゲーム制作協力 (図鑑機能実装)[unityroom](https://unityroom.com/games/andnow_dansoukairo)[Youtube](https://youtu.be/HclGUjch7FU)
-  * 個人制作 3Dゲーム制作「判子バトル」 [unityroom](https://unityroom.com/games/hancobattle) [YouTube](https://youtu.be/LEEMoyvagWc)
+     * 作品名: 「ダーウィン★ダービー」 [unityroom](https://unityroom.com/games/fgs2025b),[Youtube](https://youtu.be/jKsVDZHrhQI)
+  * インディーゲーム制作協力 (図鑑機能実装)[unityroom](https://unityroom.com/games/andnow_dansoukairo),[Youtube](https://youtu.be/HclGUjch7FU)
+  * 個人制作 3Dゲーム制作「判子バトル」 [unityroom](https://unityroom.com/games/hancobattle),[YouTube](https://youtu.be/LEEMoyvagWc)
   * 授業課題 2Dゲーム制作 [YouTube](https://www.youtube.com/watch?v=f4-Yz_h0FOs)
 * Autodesk Maya (モデリング・アニメーション)
   * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube](https://youtu.be/vHGoJtjc8ys)
