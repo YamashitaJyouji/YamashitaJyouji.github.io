@@ -1,3 +1,6 @@
+# 山下 城侍 (やました じょうじ)
+西日本工業大学 デザイン学部 情報デザイン学科 3年生
+
 ## アプリケーション
 * Unity (2D・3D)
   * 「ダーウィン★ダービー」 2Dゲーム [unityroom](https://unityroom.com/games/fgs2025b),[Youtube](https://youtu.be/jKsVDZHrhQI)
