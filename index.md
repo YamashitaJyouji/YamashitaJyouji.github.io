@@ -3,7 +3,7 @@
 
 ## アプリケーション
 * Unity (2D・3D)
-  * 「ダーウィン★ダービー」 2Dゲーム [unityroom](https://unityroom.com/games/fgs2025b),[Youtube](https://youtu.be/jKsVDZHrhQI)
+  * 「ダーウィン★ダービー」 2Dゲーム [unityroom](https://unityroom.com/games/fgs2025b),[Youtube]([https://youtu.be/jKsVDZHrhQI](https://youtu.be/2St9Oo1v8pw))
     * [Fukuoka Game Sprint 2025](https://www.city.fukuoka.lg.jp/gamesprint/2025/) 1位 (グループでの制作。ステージのギミックのプログラミング・レベルデザインを担当。)
   * 「インバートカメレオン」2Dゲーム[unityroom](https://unityroom.com/games/fgs2026_i_team),[Youtube](https://youtu.be/7TMJ6dgOeWw)
     * [Fukuoka Game Sprint 2026](https://www.city.fukuoka.lg.jp/gamesprint/gamejam/)(グループでの制作。UIプログラミング・ギミックの基盤作成・レベルデザインを担当。)
