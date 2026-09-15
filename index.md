@@ -8,7 +8,7 @@
   * 「インバートカメレオン」2Dゲーム[unityroom](https://unityroom.com/games/fgs2026_i_team),[Youtube](https://youtu.be/7TMJ6dgOeWw)
     * [Fukuoka Game Sprint 2026](https://www.city.fukuoka.lg.jp/gamesprint/gamejam/)(グループでの制作。UIプログラミング・ギミックの基盤作成・レベルデザインを担当。)
   * 「弾装回路 - bullet prism -」制作協力 (図鑑機能実装・MONARUDZAK名義)[unityroom](https://unityroom.com/games/andnow_dansoukairo),[Youtube](https://youtu.be/HclGUjch7FU)
-  * 「判子バトル」個人制作 3Dゲーム [unityroom](https://unityroom.com/games/hancobattle),[YouTube](https://youtu.be/LEEMoyvagWc)
+  * 「判子バトル」個人制作 3Dゲーム [unityroom](https://unityroom.com/games/hancobattle),[YouTube](https://youtu.be/2St9Oo1v8pw)
   * 授業課題 2Dゲーム [YouTube](https://www.youtube.com/watch?v=f4-Yz_h0FOs)
 * Autodesk Maya (モデリング・アニメーション)
   * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube](https://youtu.be/vHGoJtjc8ys)
