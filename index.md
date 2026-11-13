@@ -11,7 +11,7 @@
   * 「DustBusters」 2Dゲーム[Youtube](https://youtu.be/9wOaUk1aeAA)
     *「【プログラマー】CAPCOM Hackathon」最優秀賞
   * 「判子バトル」個人制作 3Dゲーム [unityroom](https://unityroom.com/games/hancobattle),[YouTube](https://youtu.be/2St9Oo1v8pw)
-     *[CEDEC+KYUSHU2026](https://www.fukuoka-indiegame.com/cedeckyushu2026)
+    *[CEDEC+KYUSHU2026](https://www.fukuoka-indiegame.com/cedeckyushu2026)
   * 授業課題 2Dゲーム [YouTube](https://www.youtube.com/watch?v=f4-Yz_h0FOs)
 * Autodesk Maya (モデリング・アニメーション)
   * 授業課題 アニメーション 「ピタゴラスイッチ」[YouTube](https://youtu.be/vHGoJtjc8ys)
